@@ -1,2 +1,0 @@
-python Roulette.py
-pause
