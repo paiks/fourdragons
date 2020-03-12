@@ -1,1 +1,1 @@
-web: python Roulette.py 5000
+worker: python Roulette.py 5000
